@@ -1,0 +1,24 @@
+{
+    "ROM": {
+        "c4b33283062bc8560d1bd492c0ad0aada": {
+            "u15d6baf1b56b371f98fe441f0abf3ec5": "u15d6baf1b56b371f98fe441f0abf3ec5",
+            "u1fe352754712980545f5059f55de7819": "u1fe352754712980545f5059f55de7819",
+            "u3c961b71e8021cecb4f1c0901bae7775": "u3c961b71e8021cecb4f1c0901bae7775",
+            "ucbf76771a8f73994abe2de6f9e282685": true,
+            "ud6d5a3ab5b4789a0d80a2064c233e332": "ud6d5a3ab5b4789a0d80a2064c233e332",
+            "udb07f5e1b807b625801f5ef2af08a2da": "udb07f5e1b807b625801f5ef2af08a2da",
+            "ue4117356009586eb55366d1199e56589": "ue4117356009586eb55366d1199e56589",
+            "ue648a68e04c32306c829bd662f145d67": true,
+            "ufc792fdc52a1f42a0801eee9417ad8f3": "ufc792fdc52a1f42a0801eee9417ad8f3"
+        }
+    },
+    "readMember": {
+        "c4b33283062bc8560d1bd492c0ad0aada": "ue4117356009586eb55366d1199e56589ufc792fdc52a1f42a0801eee9417ad8f3ud6d5a3ab5b4789a0d80a2064c233e332udb07f5e1b807b625801f5ef2af08a2dau15d6baf1b56b371f98fe441f0abf3ec5u3c961b71e8021cecb4f1c0901bae7775u1fe352754712980545f5059f55de7819"
+    },
+    "readPoint": {
+        "c4b33283062bc8560d1bd492c0ad0aada": "8030517801563"
+    },
+    "readTime": {
+        "c4b33283062bc8560d1bd492c0ad0aada": "13:16:40"
+    }
+}
